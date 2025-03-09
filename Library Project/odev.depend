@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1705577821 source:c:\users\mali\desktop\odev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1705577822 source:d:\odev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
